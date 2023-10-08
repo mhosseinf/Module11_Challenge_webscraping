@@ -2,7 +2,7 @@
 
 ## Mars Temperature Data Analysis
 
-This repository hosts two Python scripts:
+This repository hosts two Python scripts, and one folder contains output data:
 
 1. Mars News Scraper: This script scrapes Mars news data from this webpage.
 https://static.bc-edx.com/data/web/mars_news/index.html,
