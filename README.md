@@ -14,8 +14,9 @@ https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 4-Similarly, the scraped data is converted into a DataFrame for the Mars Temperature Data Analysis script and exported as a CSV file named Mars_Temperature_Data.csv. This CSV file is also saved in the output folder.
 
-#Mars Web Scraping
-##How it works
+# Mars Web Scraping
+
+## How it works
 1-The script uses Splinter to open a Chrome browser and visit the specified URL.
 2-It then creates a Beautiful Soup object to parse the HTML content of the web page.
 3-The script extracts text elements with the class image_and_description_container.
