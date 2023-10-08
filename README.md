@@ -24,6 +24,7 @@ https://static.bc-edx.com/data/web/mars_facts/temperature.html
 3-The script extracts text elements with the class image_and_description_container.
 
 4-It loops through these text elements extracts the text within each element, and prints it.
+
 5-The script also extracts news titles and preview text from the page.
 
 6-It stores this data in a list of dictionaries, each representing a news article.
