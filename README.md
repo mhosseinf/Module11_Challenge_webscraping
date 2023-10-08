@@ -38,7 +38,7 @@ https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 1-Similar to the first script, it uses Splinter and Beautiful Soup to visit the URL and parse the web page.
 
-2-The script extracts rows of data from the page.
+2-The script extracts rows of data from the page using both options of the Pandas read_html function and Beautiful Soup. 
 
 3-It creates a Pandas DataFrame to organise the data.
 
