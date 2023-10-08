@@ -32,3 +32,20 @@ https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 
 
+# Mars Temperature Data Scraper
+
+## How it works
+
+1-Similar to the first script, it uses Splinter and Beautiful Soup to visit the URL and parse the web page.
+
+2-The script extracts rows of data from the page.
+
+3-It creates a Pandas DataFrame to organise the data.
+
+4-The data types of DataFrame columns are adjusted for analysis.
+
+5-It answers several questions about the Mars data, such as the number of months, days, average temperatures, etc.
+
+6-The script generates visualisations to better understand the temperature patterns on Mars.
+
+7-Finally, it exports the DataFrame to a CSV file named Mars_Temperature_Data.csv in the output folder.
